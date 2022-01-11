@@ -1,0 +1,3322 @@
+{
+    "data": [
+        {
+            "id": "23806",
+            "type": "termin",
+            "attributes": {
+                "id": 23806,
+                "kurzform": "22-151-P1",
+                "von": "26.12.2021",
+                "bis": "02.01.2022",
+                "naechte": 7,
+                "plaetze": "ausgebucht",
+                "warteliste": false,
+                "preis": "963.0",
+                "alter_von": null,
+                "alter_bis": null,
+                "rabattiert": false
+            },
+            "relationships": {
+                "verpflegungsoptionen": {
+                    "data": [
+                        {
+                            "id": "32544",
+                            "type": "verpflegungsoption"
+                        }
+                    ]
+                },
+                "unterbringungsoptionen": {
+                    "data": [
+                        {
+                            "id": "35344",
+                            "type": "unterbringungsoption"
+                        },
+                        {
+                            "id": "35346",
+                            "type": "unterbringungsoption"
+                        }
+                    ]
+                },
+                "zubuchbareleistungen": {
+                    "data": [
+                        {
+                            "id": "199700",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199701",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199702",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199703",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199711",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199712",
+                            "type": "zubuchbareleistung"
+                        }
+                    ]
+                },
+                "abfahrten": {
+                    "data": [
+                        {
+                            "id": "83375628",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375629",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375668",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375669",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375670",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375671",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375672",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375674",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83447171",
+                            "type": "abfahrt"
+                        }
+                    ]
+                },
+                "reiserabatte": {
+                    "data": []
+                }
+            },
+            "links": {
+                "reiserabatte_url": "https://my.camps.digital/api/v1/reiserabatte/index?termin_id=23806"
+            }
+        },
+        {
+            "id": "23807",
+            "type": "termin",
+            "attributes": {
+                "id": 23807,
+                "kurzform": "22-151-P2",
+                "von": "26.12.2021",
+                "bis": "05.01.2022",
+                "naechte": 10,
+                "plaetze": "ausgebucht",
+                "warteliste": false,
+                "preis": "1248.0",
+                "alter_von": null,
+                "alter_bis": null,
+                "rabattiert": false
+            },
+            "relationships": {
+                "verpflegungsoptionen": {
+                    "data": [
+                        {
+                            "id": "32547",
+                            "type": "verpflegungsoption"
+                        }
+                    ]
+                },
+                "unterbringungsoptionen": {
+                    "data": [
+                        {
+                            "id": "35350",
+                            "type": "unterbringungsoption"
+                        },
+                        {
+                            "id": "35352",
+                            "type": "unterbringungsoption"
+                        }
+                    ]
+                },
+                "zubuchbareleistungen": {
+                    "data": [
+                        {
+                            "id": "199820",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199821",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199822",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199823",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199831",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199832",
+                            "type": "zubuchbareleistung"
+                        }
+                    ]
+                },
+                "abfahrten": {
+                    "data": [
+                        {
+                            "id": "83375683",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375684",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375723",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375724",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375725",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375726",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375727",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375729",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83447175",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83453214",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83453215",
+                            "type": "abfahrt"
+                        }
+                    ]
+                },
+                "reiserabatte": {
+                    "data": []
+                }
+            },
+            "links": {
+                "reiserabatte_url": "https://my.camps.digital/api/v1/reiserabatte/index?termin_id=23807"
+            }
+        },
+        {
+            "id": "23808",
+            "type": "termin",
+            "attributes": {
+                "id": 23808,
+                "kurzform": "22-151-01",
+                "von": "27.12.2021",
+                "bis": "03.01.2022",
+                "naechte": 5,
+                "plaetze": "ausgebucht",
+                "warteliste": false,
+                "preis": "519.0",
+                "alter_von": null,
+                "alter_bis": null,
+                "rabattiert": false
+            },
+            "relationships": {
+                "verpflegungsoptionen": {
+                    "data": [
+                        {
+                            "id": "32526",
+                            "type": "verpflegungsoption"
+                        }
+                    ]
+                },
+                "unterbringungsoptionen": {
+                    "data": [
+                        {
+                            "id": "35308",
+                            "type": "unterbringungsoption"
+                        },
+                        {
+                            "id": "35310",
+                            "type": "unterbringungsoption"
+                        }
+                    ]
+                },
+                "zubuchbareleistungen": {
+                    "data": [
+                        {
+                            "id": "199340",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199341",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199342",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199343",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199344",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199345",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199346",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199351",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199352",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199354",
+                            "type": "zubuchbareleistung"
+                        }
+                    ]
+                },
+                "abfahrten": {
+                    "data": [
+                        {
+                            "id": "83375028",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375029",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375076",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375077",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375078",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375079",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375080",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375081",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375082",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375083",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375084",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375085",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375086",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375087",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375088",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375089",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375090",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375091",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375092",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375093",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375094",
+                            "type": "abfahrt"
+                        }
+                    ]
+                },
+                "reiserabatte": {
+                    "data": []
+                }
+            },
+            "links": {
+                "reiserabatte_url": "https://my.camps.digital/api/v1/reiserabatte/index?termin_id=23808"
+            }
+        },
+        {
+            "id": "23809",
+            "type": "termin",
+            "attributes": {
+                "id": 23809,
+                "kurzform": "22-151-02",
+                "von": "01.01.2022",
+                "bis": "08.01.2022",
+                "naechte": 5,
+                "plaetze": "ausgebucht",
+                "warteliste": false,
+                "preis": "479.0",
+                "alter_von": null,
+                "alter_bis": null,
+                "rabattiert": false
+            },
+            "relationships": {
+                "verpflegungsoptionen": {
+                    "data": [
+                        {
+                            "id": "32529",
+                            "type": "verpflegungsoption"
+                        }
+                    ]
+                },
+                "unterbringungsoptionen": {
+                    "data": [
+                        {
+                            "id": "35314",
+                            "type": "unterbringungsoption"
+                        },
+                        {
+                            "id": "35316",
+                            "type": "unterbringungsoption"
+                        }
+                    ]
+                },
+                "zubuchbareleistungen": {
+                    "data": [
+                        {
+                            "id": "199460",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199461",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199462",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199463",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199464",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199465",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199466",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199471",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199472",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199474",
+                            "type": "zubuchbareleistung"
+                        }
+                    ]
+                },
+                "abfahrten": {
+                    "data": [
+                        {
+                            "id": "83375103",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375104",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375151",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375152",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375153",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375154",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375155",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375156",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375157",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375158",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375159",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375160",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375161",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375162",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375163",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375164",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375165",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375166",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375167",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375168",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375169",
+                            "type": "abfahrt"
+                        }
+                    ]
+                },
+                "reiserabatte": {
+                    "data": []
+                }
+            },
+            "links": {
+                "reiserabatte_url": "https://my.camps.digital/api/v1/reiserabatte/index?termin_id=23809"
+            }
+        },
+        {
+            "id": "23810",
+            "type": "termin",
+            "attributes": {
+                "id": 23810,
+                "kurzform": "22-151-03",
+                "von": "27.12.2021",
+                "bis": "08.01.2022",
+                "naechte": 10,
+                "plaetze": "ausgebucht",
+                "warteliste": false,
+                "preis": "849.0",
+                "alter_von": null,
+                "alter_bis": null,
+                "rabattiert": false
+            },
+            "relationships": {
+                "verpflegungsoptionen": {
+                    "data": [
+                        {
+                            "id": "32532",
+                            "type": "verpflegungsoption"
+                        }
+                    ]
+                },
+                "unterbringungsoptionen": {
+                    "data": [
+                        {
+                            "id": "35320",
+                            "type": "unterbringungsoption"
+                        },
+                        {
+                            "id": "35322",
+                            "type": "unterbringungsoption"
+                        }
+                    ]
+                },
+                "zubuchbareleistungen": {
+                    "data": [
+                        {
+                            "id": "199580",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199581",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199582",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199583",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199584",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199585",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199586",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199591",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199592",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "199594",
+                            "type": "zubuchbareleistung"
+                        }
+                    ]
+                },
+                "abfahrten": {
+                    "data": [
+                        {
+                            "id": "83375178",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375179",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375226",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375227",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375228",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375229",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375230",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375231",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375232",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375233",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375234",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375235",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375236",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375237",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375238",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375239",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375240",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375241",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375242",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375243",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83375244",
+                            "type": "abfahrt"
+                        }
+                    ]
+                },
+                "reiserabatte": {
+                    "data": []
+                }
+            },
+            "links": {
+                "reiserabatte_url": "https://my.camps.digital/api/v1/reiserabatte/index?termin_id=23810"
+            }
+        },
+        {
+            "id": "24088",
+            "type": "termin",
+            "attributes": {
+                "id": 24088,
+                "kurzform": "22-151-P3",
+                "von": "26.12.2021",
+                "bis": "08.01.2022",
+                "naechte": 13,
+                "plaetze": "ausgebucht",
+                "warteliste": false,
+                "preis": "1482.0",
+                "alter_von": null,
+                "alter_bis": null,
+                "rabattiert": false
+            },
+            "relationships": {
+                "verpflegungsoptionen": {
+                    "data": [
+                        {
+                            "id": "32884",
+                            "type": "verpflegungsoption"
+                        }
+                    ]
+                },
+                "unterbringungsoptionen": {
+                    "data": [
+                        {
+                            "id": "35996",
+                            "type": "unterbringungsoption"
+                        },
+                        {
+                            "id": "35998",
+                            "type": "unterbringungsoption"
+                        }
+                    ]
+                },
+                "zubuchbareleistungen": {
+                    "data": [
+                        {
+                            "id": "202535",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "202536",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "202537",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "202538",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "202546",
+                            "type": "zubuchbareleistung"
+                        },
+                        {
+                            "id": "202547",
+                            "type": "zubuchbareleistung"
+                        }
+                    ]
+                },
+                "abfahrten": {
+                    "data": [
+                        {
+                            "id": "83376020",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376021",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376060",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376061",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376062",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376063",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376064",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376065",
+                            "type": "abfahrt"
+                        },
+                        {
+                            "id": "83376066",
+                            "type": "abfahrt"
+                        }
+                    ]
+                },
+                "reiserabatte": {
+                    "data": []
+                }
+            },
+            "links": {
+                "reiserabatte_url": "https://my.camps.digital/api/v1/reiserabatte/index?termin_id=24088"
+            }
+        }
+    ],
+    "included": [
+        {
+            "id": "83375628",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Anreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:14.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375629",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Abreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:14.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375668",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Dortmund Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:20.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375669",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Duisburg Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:20.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375670",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Düsseldorf HBF",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:20.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375671",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Essen Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:20.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375672",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Frankfurt(M) Flughafen Fernbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:21.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375674",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München Bahnhof",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:21.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83447171",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Köln Messe/Deutz",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-11-11T07:47:39.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35344",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Es gibt Zimmer mit 4,5,6 und 7 Betten. In der Regel sind es 4er oder 5er Mehrbettzimmer. Jedes Zimmer hat eine Dusche und WC.",
+                "zimmerart": "Mehrbettzimmer",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:26:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35346",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Die Doppelzimmer sind schon cool, haben teilweise Lan-Buchsen und TV, in einigen Fällen sogar Balkon! Für Doppelzimmer müssen sich immer zwei Personen anmelden. Diese können gemeinsam oder getrennt buchen, wichtig ist nur, dass im Feld Belegunsgwunsch der Name des Mitbewohners angegeben wird. Einzelpersonen ohne Mitbewohner können kein Doppelzimmer buchen. ",
+                "zimmerart": "Doppelzimmer",
+                "preis": "69.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:26:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "32544",
+            "type": "verpflegungsoption",
+            "attributes": {
+                "name": "Vollpension",
+                "beschreibung": "Es gibt eine Vollpension mit Lunchpaket, da die Rückkehr mittags ins Hotel nicht praktikabel ist. Vegetarische oder vegane Speisen sind kein Problem.",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:26:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "199700",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Optionale Inklusivleistung: Skikurs für Anfänger 3x3 Std. (0,-) ODER",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199701",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Fortgeschrittene 3x3 Std. (0,-) ODER",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet am zweiten, dritten und vierten Tag nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199702",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Anfänger 3x3 Std. (0,-) ODER",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199703",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Fortgeschrittene 3x3 Std. (0,-) ODER",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet an den ersten drei Tagen nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199711",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Ski 1,5 Std. (0,-) ODER",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Skilehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 0,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199712",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Snowboard 1,5 Std. (0,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Snowboardlehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 0,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "83375683",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Anreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:23.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375684",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Abreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:23.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375723",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Dortmund Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:29.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375724",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Duisburg Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:30.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375725",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Düsseldorf HBF",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:30.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375726",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Essen Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:30.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375727",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Frankfurt(M) Flughafen Fernbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:30.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375729",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München Bahnhof",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:45:30.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83447175",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Köln Messe/Deutz",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-11-11T07:49:15.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83453214",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-12-21T11:30:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83453215",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München Ost",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-12-22T12:10:43.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35350",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Es gibt Zimmer mit 4,5,6 und 7 Betten. In der Regel sind es 4er oder 5er Mehrbettzimmer. Jedes Zimmer hat eine Dusche und WC.",
+                "zimmerart": "Mehrbettzimmer",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:27:07.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35352",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Die Doppelzimmer sind schon cool, haben teilweise Lan-Buchsen und TV, in einigen Fällen sogar Balkon! Für Doppelzimmer müssen sich immer zwei Personen anmelden. Diese können gemeinsam oder getrennt buchen, wichtig ist nur, dass im Feld Belegunsgwunsch der Name des Mitbewohners angegeben wird. Einzelpersonen ohne Mitbewohner können kein Doppelzimmer buchen. ",
+                "zimmerart": "Doppelzimmer",
+                "preis": "69.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:27:07.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "32547",
+            "type": "verpflegungsoption",
+            "attributes": {
+                "name": "Vollpension",
+                "beschreibung": "Es gibt eine Vollpension mit Lunchpaket, da die Rückkehr mittags ins Hotel nicht praktikabel ist. Vegetarische oder vegane Speisen sind kein Problem.",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:27:07.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "199820",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Optionale Inklusivleistung: Skikurs für Anfänger 3x3 Std. (0,-) ODER",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:50.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199821",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Fortgeschrittene 3x3 Std. (0,-) ODER",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet am zweiten, dritten und vierten Tag nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:50.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199822",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Anfänger 3x3 Std. (0,-) ODER",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:50.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199823",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Fortgeschrittene 3x3 Std. (0,-) ODER",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet an den ersten drei Tagen nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:50.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199831",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Ski 1,5 Std. (0,-) ODER",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Skilehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 0,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:50.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199832",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Snowboard 1,5 Std. (0,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Snowboardlehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 0,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:50.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "83375028",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Anreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:38.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375029",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Abreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:38.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375076",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Augsburg",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:45.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375077",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bad Camberg",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375078",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bad Honnef",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375079",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bonn",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375080",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Dortmund",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375081",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Duisburg",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375082",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Düsseldorf",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375083",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Essen",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375084",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Frankfurt",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375085",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Haltern am See",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375086",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Karlsruhe",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375087",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Koblenz",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Rheinland-Pfalz",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375088",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Köln",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375089",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Mannheim/Lorsch",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375090",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Montabaur/Limburg",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Rheinland-Pfalz",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:47.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375091",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:48.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375092",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Nürnberg",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:48.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375093",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Stuttgart",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:48.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375094",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Ulm",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:48.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35308",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Es gibt Zimmer mit 4,5,6 und 7 Betten. In der Regel sind es 4er oder 5er Mehrbettzimmer. Jedes Zimmer hat eine Dusche und WC.",
+                "zimmerart": "Mehrbettzimmer",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:25:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35310",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Die Doppelzimmer sind schon cool, haben teilweise Lan-Buchsen und TV, in einigen Fällen sogar Balkon! Für Doppelzimmer müssen sich immer zwei Personen anmelden. Diese können gemeinsam oder getrennt buchen, wichtig ist nur, dass im Feld Belegunsgwunsch der Name des Mitbewohners angegeben wird. Einzelpersonen ohne Mitbewohner können kein Doppelzimmer buchen. ",
+                "zimmerart": "Doppelzimmer",
+                "preis": "69.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:25:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "32526",
+            "type": "verpflegungsoption",
+            "attributes": {
+                "name": "Vollpension",
+                "beschreibung": "Es gibt eine Vollpension mit Lunchpaket, da die Rückkehr mittags ins Hotel nicht praktikabel ist. Vegetarische oder vegane Speisen sind kein Problem.",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:25:46.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "199340",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Anfänger 3x3 Std. (79,-)",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 79,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199341",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Fortgeschrittene 3x3 Std. (99,-)",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet am zweiten, dritten und vierten Tag nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 99,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199342",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Anfänger 3x3 Std. (79,-)",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 79,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199343",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Fortgeschrittene 3x3 Std. (99,-)",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet an den ersten drei Tagen nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 99,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199344",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Basic-Versicherung (4x abgesichert) (16,-)",
+                "beschreibung": "Die Basic-Versicherung ist eine spezielle Alpinsport-Versicherung, in der auch die Helikopterbergung versichert ist. Sie beinhaltet eine Kranken-, Unfall-, Haftpflicht- und Rechtsschutzversicherung und bietet den Vorteil, dass du dir im Notfall keinerlei Sorgen um die Kosten machen musst. Wir empfehlen dir diese Versicherung, es besteht jedoch keine Pflicht, eine Versicherung abzuschließen.",
+                "preis": 16,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:35.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199345",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Reiserücktrittskosten-Versicherung (26,-)",
+                "beschreibung": "Die Reiserücktrittskosten-Versicherung greift dann, wenn du dich verletzt oder erkrankst und deshalb an der Fahrt nicht teilnehmen kannst. Wenn du uns ein ärztliches Attest vorlegst, schreiben wir dir 90% des Gesamtreisepreises gut.",
+                "preis": 26,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:36.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199346",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Premium-Versicherung (5x abgesichert) (36,-)",
+                "beschreibung": "Die Premium-Versicherung kombiniert die Basic-Versicherung mit der Reiserücktrittskosten-Versicherung zu einem günstigeren Gesamtpreis. Man spart also Geld wenn man die Premium Versicherung wählt.",
+                "preis": 36,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:36.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199351",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Ski 1,5 Std. (59,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Skilehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 59,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199352",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Snowboard 1,5 Std. (59,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Snowboardlehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 59,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199354",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "6 Tage Skipass Kind ab 2006 und jünger (143,5)",
+                "beschreibung": "Bei uns bekommst du den Skipass günstiger als zum Normalpreis.  Wir geben den Gruppenrabatt 1:1 an dich weiter. Dein Skipass liegt am Morgen deiner Ankunft bereits im Hotel, so dass dir am ersten Tag keine Verzögerung entsteht. <br> Wir registrieren jeden Skipass namentlich. Das hat zwei entscheidende Vorteile: Wenn du ihn verlierst, bekommst du kostenlosen Ersatz (10 € Gebühr). Wenn wir dich vermissen, können wir über das Tracking der Skipassnummer deinen Standort sehr schnell eingrenzen. Das erhöht die Sicherheit im Falle eines Unglücks enorm!",
+                "preis": 143,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-11-30T15:34:25.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "83375103",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Anreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:50.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375104",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Abreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:50.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375151",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Augsburg",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:57.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375152",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bad Camberg",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:57.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375153",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bad Honnef",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375154",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bonn",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375155",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Dortmund",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375156",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Duisburg",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375157",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Düsseldorf",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375158",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Essen",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375159",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Frankfurt",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:58.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375160",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Haltern am See",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375161",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Karlsruhe",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375162",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Koblenz",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Rheinland-Pfalz",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375163",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Köln",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375164",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Mannheim/Lorsch",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375165",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Montabaur/Limburg",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Rheinland-Pfalz",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:37:59.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375166",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:00.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375167",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Nürnberg",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:00.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375168",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Stuttgart",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:01.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375169",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Ulm",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:01.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35314",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Es gibt Zimmer mit 4,5,6 und 7 Betten. In der Regel sind es 4er oder 5er Mehrbettzimmer. Jedes Zimmer hat eine Dusche und WC.",
+                "zimmerart": "Mehrbettzimmer",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:25:54.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35316",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Die Doppelzimmer sind schon cool, haben teilweise Lan-Buchsen und TV, in einigen Fällen sogar Balkon! Für Doppelzimmer müssen sich immer zwei Personen anmelden. Diese können gemeinsam oder getrennt buchen, wichtig ist nur, dass im Feld Belegunsgwunsch der Name des Mitbewohners angegeben wird. Einzelpersonen ohne Mitbewohner können kein Doppelzimmer buchen. ",
+                "zimmerart": "Doppelzimmer",
+                "preis": "69.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:25:54.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "32529",
+            "type": "verpflegungsoption",
+            "attributes": {
+                "name": "Vollpension",
+                "beschreibung": "Es gibt eine Vollpension mit Lunchpaket, da die Rückkehr mittags ins Hotel nicht praktikabel ist. Vegetarische oder vegane Speisen sind kein Problem.",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:25:54.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "199460",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Anfänger 3x3 Std. (79,-)",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 79,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199461",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Fortgeschrittene 3x3 Std. (99,-)",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet am zweiten, dritten und vierten Tag nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 99,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199462",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Anfänger 3x3 Std. (79,-)",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 79,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199463",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Fortgeschrittene 3x3 Std. (99,-)",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet an den ersten drei Tagen nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 99,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199464",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Basic-Versicherung (4x abgesichert) (16,-)",
+                "beschreibung": "Die Basic-Versicherung ist eine spezielle Alpinsport-Versicherung, in der auch die Helikopterbergung versichert ist. Sie beinhaltet eine Kranken-, Unfall-, Haftpflicht- und Rechtsschutzversicherung und bietet den Vorteil, dass du dir im Notfall keinerlei Sorgen um die Kosten machen musst. Wir empfehlen dir diese Versicherung, es besteht jedoch keine Pflicht, eine Versicherung abzuschließen.",
+                "preis": 16,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:38.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199465",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Reiserücktrittskosten-Versicherung (26,-)",
+                "beschreibung": "Die Reiserücktrittskosten-Versicherung greift dann, wenn du dich verletzt oder erkrankst und deshalb an der Fahrt nicht teilnehmen kannst. Wenn du uns ein ärztliches Attest vorlegst, schreiben wir dir 90% des Gesamtreisepreises gut.",
+                "preis": 26,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:38.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199466",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Premium-Versicherung (5x abgesichert) (36,-)",
+                "beschreibung": "Die Premium-Versicherung kombiniert die Basic-Versicherung mit der Reiserücktrittskosten-Versicherung zu einem günstigeren Gesamtpreis. Man spart also Geld wenn man die Premium Versicherung wählt.",
+                "preis": 36,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:39.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199471",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Ski 1,5 Std. (59,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Skilehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 59,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199472",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Snowboard 1,5 Std. (59,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Snowboardlehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 59,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:05.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199474",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "6 Tage Skipass Kind ab 2006 und jünger (143,5)",
+                "beschreibung": "Bei uns bekommst du den Skipass günstiger als zum Normalpreis.  Wir geben den Gruppenrabatt 1:1 an dich weiter. Dein Skipass liegt am Morgen deiner Ankunft bereits im Hotel, so dass dir am ersten Tag keine Verzögerung entsteht. <br> Wir registrieren jeden Skipass namentlich. Das hat zwei entscheidende Vorteile: Wenn du ihn verlierst, bekommst du kostenlosen Ersatz (10 € Gebühr). Wenn wir dich vermissen, können wir über das Tracking der Skipassnummer deinen Standort sehr schnell eingrenzen. Das erhöht die Sicherheit im Falle eines Unglücks enorm!",
+                "preis": 143,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:52:52.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "83375178",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Anreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:03.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375179",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Abreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:03.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375226",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Augsburg",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:10.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375227",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bad Camberg",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:10.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375228",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bad Honnef",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375229",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Bonn",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375230",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Dortmund",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375231",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Duisburg",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375232",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Düsseldorf",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375233",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Essen",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375234",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Frankfurt",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:11.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375235",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Haltern am See",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:12.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375236",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Karlsruhe",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:12.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375237",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Koblenz",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Rheinland-Pfalz",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:12.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375238",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Köln",
+                "preis": "49.0",
+                "zweitpreis": "49.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:12.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375239",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Mannheim/Lorsch",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:12.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375240",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Montabaur/Limburg",
+                "preis": "39.0",
+                "zweitpreis": "39.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Rheinland-Pfalz",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:12.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375241",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:13.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375242",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Nürnberg",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:13.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375243",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Stuttgart",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:13.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83375244",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Ulm",
+                "preis": "29.0",
+                "zweitpreis": "29.0",
+                "abfahrtstyp": "Bus",
+                "bundesland": "Baden-Württemberg",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:38:13.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35320",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Es gibt Zimmer mit 4,5,6 und 7 Betten. In der Regel sind es 4er oder 5er Mehrbettzimmer. Jedes Zimmer hat eine Dusche und WC.",
+                "zimmerart": "Mehrbettzimmer",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:26:02.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35322",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Die Doppelzimmer sind schon cool, haben teilweise Lan-Buchsen und TV, in einigen Fällen sogar Balkon! Für Doppelzimmer müssen sich immer zwei Personen anmelden. Diese können gemeinsam oder getrennt buchen, wichtig ist nur, dass im Feld Belegunsgwunsch der Name des Mitbewohners angegeben wird. Einzelpersonen ohne Mitbewohner können kein Doppelzimmer buchen. ",
+                "zimmerart": "Doppelzimmer",
+                "preis": "69.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:26:02.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "32532",
+            "type": "verpflegungsoption",
+            "attributes": {
+                "name": "Vollpension",
+                "beschreibung": "Es gibt eine Vollpension mit Lunchpaket, da die Rückkehr mittags ins Hotel nicht praktikabel ist. Vegetarische oder vegane Speisen sind kein Problem.",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:26:02.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "199580",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Anfänger 3x3 Std. (79,-)",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 79,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:20.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199581",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Fortgeschrittene 3x3 Std. (99,-)",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet am zweiten, dritten und vierten Tag nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 99,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:20.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199582",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Anfänger 3x3 Std. (79,-)",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 79,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:20.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199583",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Fortgeschrittene 3x3 Std. (99,-)",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet an den ersten drei Tagen nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 99,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:20.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199584",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Basic-Versicherung (4x abgesichert) (16,-)",
+                "beschreibung": "Die Basic-Versicherung ist eine spezielle Alpinsport-Versicherung, in der auch die Helikopterbergung versichert ist. Sie beinhaltet eine Kranken-, Unfall-, Haftpflicht- und Rechtsschutzversicherung und bietet den Vorteil, dass du dir im Notfall keinerlei Sorgen um die Kosten machen musst. Wir empfehlen dir diese Versicherung, es besteht jedoch keine Pflicht, eine Versicherung abzuschließen.",
+                "preis": 16,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:42.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199585",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Reiserücktrittskosten-Versicherung (26,-)",
+                "beschreibung": "Die Reiserücktrittskosten-Versicherung greift dann, wenn du dich verletzt oder erkrankst und deshalb an der Fahrt nicht teilnehmen kannst. Wenn du uns ein ärztliches Attest vorlegst, schreiben wir dir 90% des Gesamtreisepreises gut.",
+                "preis": 26,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:43.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199586",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Premium-Versicherung (5x abgesichert) (36,-)",
+                "beschreibung": "Die Premium-Versicherung kombiniert die Basic-Versicherung mit der Reiserücktrittskosten-Versicherung zu einem günstigeren Gesamtpreis. Man spart also Geld wenn man die Premium Versicherung wählt.",
+                "preis": 36,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-10-27T10:12:43.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199591",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Ski 1,5 Std. (59,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Skilehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 59,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:20.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199592",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Snowboard 1,5 Std. (59,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Snowboardlehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 59,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-06-09T13:29:20.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "199594",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "11 Tage Skipass Kind ab 2006 und jünger (206,5)",
+                "beschreibung": "Bei uns bekommst du den Skipass günstiger als zum Normalpreis.  Wir geben den Gruppenrabatt 1:1 an dich weiter. Dein Skipass liegt am Morgen deiner Ankunft bereits im Hotel, so dass dir am ersten Tag keine Verzögerung entsteht. <br> Wir registrieren jeden Skipass namentlich. Das hat zwei entscheidende Vorteile: Wenn du ihn verlierst, bekommst du kostenlosen Ersatz (10 € Gebühr). Wenn wir dich vermissen, können wir über das Tracking der Skipassnummer deinen Standort sehr schnell eingrenzen. Das erhöht die Sicherheit im Falle eines Unglücks enorm!",
+                "preis": 206,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-17T15:52:19.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "83376020",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Anreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:19.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376021",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Eigene Abreise",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Eigenverantwortlich",
+                "bundesland": null,
+                "land": "Nicht zugeordnet"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:19.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376060",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Dortmund Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:25.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376061",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Duisburg Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:25.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376062",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Düsseldorf HBF",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:25.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376063",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Essen Hbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:25.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376064",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Frankfurt(M) Flughafen Fernbf",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Hessen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:25.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376065",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "Köln HBF",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Nordrhein-Westfalen",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:26.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "83376066",
+            "type": "abfahrt",
+            "attributes": {
+                "abfahrtsort": "München Bahnhof",
+                "preis": "0.0",
+                "zweitpreis": "0.0",
+                "abfahrtstyp": "Bahn",
+                "bundesland": "Bayern",
+                "land": "Deutschland"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:26.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35996",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Es gibt Zimmer mit 4,5,6 und 7 Betten. In der Regel sind es 4er oder 5er Mehrbettzimmer. Jedes Zimmer hat eine Dusche und WC.",
+                "zimmerart": "Mehrbettzimmer",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:26.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "35998",
+            "type": "unterbringungsoption",
+            "attributes": {
+                "name": "Hotel",
+                "beschreibung": "Die Doppelzimmer sind schon cool, haben teilweise Lan-Buchsen und TV, in einigen Fällen sogar Balkon! Für Doppelzimmer müssen sich immer zwei Personen anmelden. Diese können gemeinsam oder getrennt buchen, wichtig ist nur, dass im Feld Belegunsgwunsch der Name des Mitbewohners angegeben wird. Einzelpersonen ohne Mitbewohner können kein Doppelzimmer buchen. ",
+                "zimmerart": "Doppelzimmer",
+                "preis": "69.0"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:26.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "32884",
+            "type": "verpflegungsoption",
+            "attributes": {
+                "name": "Vollpension",
+                "beschreibung": "Es gibt eine Vollpension mit Lunchpaket, da die Rückkehr mittags ins Hotel nicht praktikabel ist. Vegetarische oder vegane Speisen sind kein Problem.",
+                "preis": "0.0"
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:26.000Z",
+                "type": "select"
+            }
+        },
+        {
+            "id": "202535",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Optionale Inklusivleistung: Skikurs für Anfänger 3x3 Std. (0,-) ODER",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:27.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "202536",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Skikurs für Fortgeschrittene 3x3 Std. (0,-) ODER",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet am zweiten, dritten und vierten Tag nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:27.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "202537",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Anfänger 3x3 Std. (0,-) ODER",
+                "beschreibung": "Es ist noch kein Meister vom Himmel gefallen! Jeder musste mal am Übungshang anfangen. Aber wir haben bisher noch jedem das Skifahren oder Snowboarden in unseren Anfängerkursen beibringen können. Solltest du Anfänger sein, empfehlen wir dir dringend einen Kurs zu buchen. Der Kurs findet an den ersten drei Tagen vormittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:27.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "202538",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Snowboardkurs für Fortgeschrittene 3x3 Std. (0,-) ODER",
+                "beschreibung": "Der Fortgeschrittenenkurs orientiert sich an deinem Können. Wir schauen wo Stärken und Schwächen sind und versuchen deine Skills gezielt zu verbessern. <br>Dabei flitzen wir quer durchs gesamte Skigebiet und zeigen dir versteckte Pisten und die schönsten Hütten! Der Kurs findet an den ersten drei Tagen nachmittags statt und umfasst 3x3 Stunden.",
+                "preis": 0,
+                "inklusive": false,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:27.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "202546",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Ski 1,5 Std. (0,-) ODER",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Skilehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 0,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:27.000Z",
+                "type": "checkbox"
+            }
+        },
+        {
+            "id": "202547",
+            "type": "zubuchbareleistung",
+            "attributes": {
+                "titel": "Intensiv-Training Snowboard 1,5 Std. (0,-)",
+                "beschreibung": "Beim Intensiv-Training kommen maximal zwei Schüler auf einen Snowboardlehrer. Wir haben festgestellt, dass eine kurze, aber intensive Trainingseinheit im Einzel-oder Doppeltraining das Technikniveau sehr effektiv verbessern kann. Das Training findet nach Absprache statt und orientiert sich inhaltlich an deinen Potenzialen. Erreiche das nächste Level, Erfolgserlebnis garantiert. Das Training umfasst 1,5 Stunden.",
+                "preis": 0,
+                "inklusive": null,
+                "obligatorisch": null
+            },
+            "meta": {
+                "updated_at": "2021-09-22T07:33:27.000Z",
+                "type": "checkbox"
+            }
+        }
+    ]
+}
