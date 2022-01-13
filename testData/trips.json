@@ -1,0 +1,86 @@
+{
+    "test-trip-1": {
+        "start": "02.04.2022",
+        "end": "08.04.2022",
+        "nights": 6,
+        "price": "536",
+        "availability": "0"
+    },
+    "test-trip-2": {
+        "start": "02.06.2022",
+        "end": "10.06.2022",
+        "nights": 8,
+        "price": "900",
+        "availability": "> 10"
+    },
+    "test-trip-3": {
+        "start": "21.07.2022",
+        "end": "30.07.2022",
+        "nights": 9,
+        "price": "1250",
+        "availability": "> 10"
+    },
+    "test-trip-4": {
+        "start": "21.09.2022",
+        "end": "30.09.2022",
+        "nights": 9,
+        "price": "1250",
+        "availability": "<= 10"
+    },
+    "test-trip-5": {
+        "start": "02.10.2022",
+        "end": "08.10.2022",
+        "nights": 6,
+        "price": "800",
+        "availability": "> 10"
+    },
+    "test-trip-6": {
+        "start": "02.11.2022",
+        "end": "10.11.2022",
+        "nights": 8,
+        "price": "1050",
+        "availability": "0"
+    },
+    "test-trip-7": {
+        "start": "27.12.2022",
+        "end": "30.12.2022",
+        "nights": 3,
+        "price": "450",
+        "availability": "<= 10"
+    },
+    "test-trip-8": {
+        "start": "02.04.2022",
+        "end": "08.04.2022",
+        "nights": 6,
+        "price": "536",
+        "availability": "> 10"
+    },
+    "test-trip-9": {
+        "start": "02.06.2022",
+        "end": "10.06.2022",
+        "nights": 8,
+        "price": "900",
+        "availability": "> 10"
+    },
+    "test-trip-10": {
+        "start": "21.07.2022",
+        "end": "30.07.2022",
+        "nights": 9,
+        "price": "1250",
+        "availability": "0"
+    },
+    "test-trip-11": {
+        "start": "02.08.2022",
+        "end": "08.08.2022",
+        "nights": 6,
+        "price": "800",
+        "availability": "> 10"
+    },
+    "test-trip-12": {
+        "start": "21.08.2022",
+        "end": "30.08.2022",
+        "nights": 9,
+        "price": "1250",
+        "availability": "<= 10"
+    }
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "test-dest-1",
+        "title": "Abenteuer in den Pyrenäen",
+        "minAge": 14,
+        "maxAge": 17,
+        "imgUrl": "https://images.jugendreisen.com/reisebilder/bilds/000/008/021/gallery/pyrenaen-gipfelausblick-spanien-jugendreise.jpg",
+        "description": "Die Zeiten, in denen die Berge dieser Welt nur Oma und Opa angezogen haben, sind lange vorbei.",
+        "trips": [
+            "test-trip-1",
+            "test-trip-2",
+            "test-trip-3",
+            "test-trip-4",
+            "test-trip-5",
+            "test-trip-6",
+            "test-trip-7"
+        ]
+    },
+    {
+        "id": "test-dest-2",
+        "title": "Beachcamp KIDS & BEACH Grömitz Ostsee Lodge",
+        "minAge": 9,
+        "maxAge": 11,
+        "imgUrl": "https://images.jugendreisen.com/reisebilder/bilds/000/002/183/gallery/groemitz-moewe-strand-deutschland.jpg",
+        "description": "Weitläufiger langer Sandstrand, zahlreiche Wassersportangebote und endlose Strandpromenaden zwischen den Dünen.",
+        "trips": [
+            "test-trip-8",
+            "test-trip-9",
+            "test-trip-10",
+            "test-trip-11",
+            "test-trip-12"
+        ]
+    }
+]
