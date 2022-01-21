@@ -110,5 +110,59 @@
             "price": "1250",
             "availability": "<= 10"
         }
+    ],
+    "test-product-3": [
+        {
+            "id": "22-15-S1",
+            "bookingUrl": "https://forscherfreunde.de/anmeldung?termin_id=75&vendor=ForscherFreunde&host=&extern=true&locale=de",
+            "start": "25.07.2022",
+            "end": "29.07.2022",
+            "nights": 4,
+            "price": "295",
+            "availability": "> 10",
+            "additionalValues": [
+                "Clever Coding mit Lego® Spike Essential",
+                "7 - 10 Jahre"
+            ]
+        },
+        {
+            "id": "22-15-S2",
+            "bookingUrl": "https://forscherfreunde.de/anmeldung?termin_id=76&vendor=ForscherFreunde&host=&extern=true&locale=de",
+            "start": "01.08.2022",
+            "end": "05.08.2022",
+            "nights": 4,
+            "price": "295",
+            "availability": "> 10",
+            "additionalValues": [
+                "Daddeln und Denken mit Minecraft",
+                "10 - 14 Jahre"
+            ]
+        },
+        {
+            "id": "22-15-S3",
+            "bookingUrl": "https://forscherfreunde.de/anmeldung?termin_id=77&vendor=ForscherFreunde&host=&extern=true&locale=de",
+            "start": "29.08.2022",
+            "end": "02.09.2022",
+            "nights": 4,
+            "price": "295",
+            "availability": "> 10",
+            "additionalValues": [
+                "Maschinen und Mechanik mit LEGO®",
+                "9 - 12 Jahre"
+            ]
+        },
+        {
+            "id": "22-15-ZH1",
+            "bookingUrl": "https://forscherfreunde.de/anmeldung?termin_id=94&vendor=ForscherFreunde&host=&extern=true&locale=de",
+            "start": "24.10.2022",
+            "end": "28.10.2022",
+            "nights": 4,
+            "price": "295",
+            "availability": "> 10",
+            "additionalValues": [
+                "Programmieren und Entdecken mit LEGO® WeDo 2.0",
+                "7 - 10 Jahre"
+            ]
+        }
     ]
 }
