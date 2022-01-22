@@ -2,25 +2,25 @@
   "Baden-Wuerttemberg": [
     {
       "Ort": "Baden-Wuerttemberg",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "15.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Baden-Wuerttemberg",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "28.07.2022",
       "Ende": "11.09.2022"
     },
     {
       "Ort": "Baden-Wuerttemberg",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "29.10.2021",
       "Ende": "07.11.2021"
     },
     {
       "Ort": "Baden-Wuerttemberg",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "09.01.2022"
     }
@@ -28,25 +28,25 @@
   "Bayern": [
     {
       "Ort": "Bayern",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "23.04.2022"
     },
     {
       "Ort": "Bayern",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "29.07.2022",
       "Ende": "12.09.2022"
     },
     {
       "Ort": "Bayern",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "29.10.2021",
       "Ende": "07.11.2021"
     },
     {
       "Ort": "Bayern",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "23.12.2021",
       "Ende": "09.01.2022"
     }
@@ -54,25 +54,25 @@
   "Berlin": [
     {
       "Ort": "Berlin",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Berlin",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "06.07.2022",
       "Ende": "21.08.2022"
     },
     {
       "Ort": "Berlin",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "08.10.2021",
       "Ende": "24.10.2021"
     },
     {
       "Ort": "Berlin",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "23.12.2021",
       "Ende": "02.01.2022"
     }
@@ -80,25 +80,25 @@
   "Brandenburg": [
     {
       "Ort": "Brandenburg",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "23.04.2022"
     },
     {
       "Ort": "Brandenburg",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "06.07.2022",
       "Ende": "21.08.2022"
     },
     {
       "Ort": "Brandenburg",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "08.10.2021",
       "Ende": "24.10.2021"
     },
     {
       "Ort": "Brandenburg",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "02.01.2022"
     }
@@ -106,25 +106,25 @@
   "Bremen": [
     {
       "Ort": "Bremen",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "01.04.2022",
       "Ende": "19.04.2022"
     },
     {
       "Ort": "Bremen",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "13.07.2022",
       "Ende": "24.08.2022"
     },
     {
       "Ort": "Bremen",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "15.10.2021",
       "Ende": "31.10.2021"
     },
     {
       "Ort": "Bremen",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "09.01.2022"
     }
@@ -132,25 +132,25 @@
   "Hamburg": [
     {
       "Ort": "Hamburg",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "04.03.2022",
       "Ende": "20.03.2022"
     },
     {
       "Ort": "Hamburg",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "06.07.2022",
       "Ende": "17.08.2022"
     },
     {
       "Ort": "Hamburg",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "01.10.2021",
       "Ende": "17.10.2021"
     },
     {
       "Ort": "Hamburg",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "04.01.2022"
     }
@@ -158,25 +158,25 @@
   "Hessen": [
     {
       "Ort": "Hessen",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Hessen",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "22.07.2022",
       "Ende": "04.09.2022"
     },
     {
       "Ort": "Hessen",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "08.10.2021",
       "Ende": "24.10.2021"
     },
     {
       "Ort": "Hessen",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "09.01.2022"
     }
@@ -184,25 +184,25 @@
   "Mecklenburg-Vorpommern": [
     {
       "Ort": "Mecklenburg-Vorpommern",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "20.04.2022"
     },
     {
       "Ort": "Mecklenburg-Vorpommern",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "01.07.2022",
       "Ende": "14.08.2022"
     },
     {
       "Ort": "Mecklenburg-Vorpommern",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "01.10.2021",
       "Ende": "10.10.2021"
     },
     {
       "Ort": "Mecklenburg-Vorpommern",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "21.12.2021",
       "Ende": "02.01.2022"
     }
@@ -210,25 +210,25 @@
   "Niedersachsen": [
     {
       "Ort": "Niedersachsen",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "01.04.2022",
       "Ende": "19.04.2022"
     },
     {
       "Ort": "Niedersachsen",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "13.07.2022",
       "Ende": "24.08.2022"
     },
     {
       "Ort": "Niedersachsen",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "15.10.2021",
       "Ende": "31.10.2021"
     },
     {
       "Ort": "Niedersachsen",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "09.01.2022"
     }
@@ -236,25 +236,25 @@
   "Nordrhein-Westfalen": [
     {
       "Ort": "Nordrhein-Westfalen",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Nordrhein-Westfalen",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "24.06.2022",
       "Ende": "10.08.2022"
     },
     {
       "Ort": "Nordrhein-Westfalen",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "08.10.2021",
       "Ende": "24.10.2021"
     },
     {
       "Ort": "Nordrhein-Westfalen",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "23.12.2021",
       "Ende": "09.01.2022"
     }
@@ -262,25 +262,25 @@
   "Rheinland-Pfalz": [
     {
       "Ort": "Rheinland-Pfalz",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
      "Start": "12.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Rheinland-Pfalz",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "22.07.2022",
       "Ende": "04.09.2022"
     },
     {
       "Ort": "Rheinland-Pfalz",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "08.10.2021",
       "Ende": "24.10.2021"
     },
     {
       "Ort": "Rheinland-Pfalz",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "02.01.2022"
     }
@@ -288,25 +288,25 @@
   "Saarland": [
     {
       "Ort": "Saarland",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "13.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Saarland",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "22.07.2022",
       "Ende": "04.09.2022"
     },
     {
       "Ort": "Saarland",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "15.10.2021",
       "Ende": "31.10.2021"
     },
     {
       "Ort": "Saarland",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "03.01.2022"
     }
@@ -314,25 +314,25 @@
   "Sachsen": [
     {
       "Ort": "Sachsen",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "14.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Sachsen",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "15.07.2022",
       "Ende": "28.08.2022"
     },
     {
       "Ort": "Sachsen",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "15.10.2021",
       "Ende": "31.10.2021"
     },
     {
       "Ort": "Sachsen",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "02.01.2022"
     }
@@ -340,25 +340,25 @@
   "Sachsen-Anhalt": [
     {
       "Ort": "Sachsen-Anhalt",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "18.04.2022"
     },
     {
       "Ort": "Sachsen-Anhalt",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "14.07.2022",
       "Ende": "24.08.2022"
     },
     {
       "Ort": "Sachsen-Anhalt",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "22.10.2021",
       "Ende": "31.10.2021"
     },
     {
       "Ort": "Sachsen-Anhalt",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "21.12.2021",
       "Ende": "09.01.2022"
     }
@@ -366,25 +366,25 @@
   "Schleswig-Holstein": [
     {
       "Ort": "Schleswig-Holstein",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "01.04.2022",
       "Ende": "17.04.2022"
     },
     {
       "Ort": "Schleswig-Holstein",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "01.07.2022",
       "Ende": "13.08.2022"
     },
     {
       "Ort": "Schleswig-Holstein",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "01.10.2021",
       "Ende": "17.10.2021"
     },
     {
       "Ort": "Schleswig-Holstein",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "09.01.2022"
     }
@@ -392,25 +392,25 @@
   "Thueringen": [
     {
       "Ort": "Thueringen",
-      "Zusammenfassung": "Frühjahr",
+      "Zusammenfassung": "Osterferien",
       "Start": "08.04.2022",
       "Ende": "24.04.2022"
     },
     {
       "Ort": "Thueringen",
-      "Zusammenfassung": "Sommer",
+      "Zusammenfassung": "Sommerferien",
       "Start": "15.07.2022",
       "Ende": "28.08.2022"
     },
     {
       "Ort": "Thueringen",
-      "Zusammenfassung": "Herbst",
+      "Zusammenfassung": "Herbstferien",
       "Start": "22.10.2021",
       "Ende": "07.11.2021"
     },
     {
       "Ort": "Thueringen",
-      "Zusammenfassung": "Winter",
+      "Zusammenfassung": "Winterferien",
       "Start": "22.12.2021",
       "Ende": "02.01.2022"
     }
