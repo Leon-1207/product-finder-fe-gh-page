@@ -1,0 +1,39 @@
+[
+    {
+        "id": "test-product-1",
+        "title": "Abenteuer in den Pyrenäen",
+        "minAge": 14,
+        "maxAge": 17,
+        "location": "Pyrenaen",
+        "imgUrl": "https://images.jugendreisen.com/reisebilder/bilds/000/008/021/gallery/pyrenaen-gipfelausblick-spanien-jugendreise.jpg",
+        "description": "Die Zeiten, in denen die Berge dieser Welt nur Oma und Opa angezogen haben, sind lange vorbei.",
+        "productPageUrl": "https://www.go-jugendreisen.de/deutschland/groemitz/kids-beach-camp/zelt-lodge/9-11.html",
+        "eventCount": 7
+    },
+    {
+        "id": "test-product-2",
+        "title": "Beachcamp KIDS & BEACH Grömitz Ostsee Lodge",
+        "minAge": 9,
+        "maxAge": 11,
+        "location": "Ostsee",
+        "imgUrl": "https://images.jugendreisen.com/reisebilder/bilds/000/002/183/gallery/groemitz-moewe-strand-deutschland.jpg",
+        "description": "Weitläufiger langer Sandstrand, zahlreiche Wassersportangebote und endlose Strandpromenaden zwischen den Dünen.",
+        "productPageUrl": null,
+        "eventCount": 5
+    },
+    {
+        "id": "test-product-3",
+        "title": "Forschercamps in Oberursel",
+        "minAge": 7,
+        "maxAge": 14,
+        "location": "Oberursel",
+        "imgUrl": "https://forscherfreunde.de/wp-content/uploads/2021/07/Beitrag-5.jpg",
+        "description": "LEGO Modelle bauen und durch Programmierung zum Leben erwecken – Mechanik untersuchen – in Minecraft Stromkreise erforschen – konstruieren, tüfteln, programmieren, forschen und ganz viel Spaß haben!",
+        "productPageUrl": "https://forscherfreunde.de/feriencamps-in-oberursel/",
+        "eventCount": 4,
+        "additionalValues": [
+            "Thema",
+            "Alter"
+        ]
+    }
+]
