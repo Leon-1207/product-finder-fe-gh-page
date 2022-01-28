@@ -14,9 +14,9 @@
             "id": "test-event-2",
             "bookingUrl": "https://www.go-jugendreisen.de/buchung-513-61772.html",
             "start": "02.06.2022",
-            "end": "10.06.2022",
-            "nights": 8,
-            "days": 9,
+            "end": "12.06.2022",
+            "nights": 10,
+            "days": 11,
             "price": "900",
             "availability": "> 10"
         },
@@ -33,10 +33,10 @@
         {
             "id": "test-event-4",
             "bookingUrl": "https://www.go-jugendreisen.de/buchung-513-61772.html",
-            "start": "21.09.2022",
+            "start": "19.09.2022",
             "end": "30.09.2022",
-            "nights": 9,
-            "days": 10,
+            "nights": 11,
+            "days": 12,
             "price": "1250",
             "availability": "<= 10"
         },
